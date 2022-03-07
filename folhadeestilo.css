@@ -1,0 +1,19 @@
+#titulo {
+    margin-top: 12px;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.circulo {
+    text-align: center;
+    background-color: rgb(43, 37, 37);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+#display-4 {
+    font-weight: bolder;
+    color: rgb(19, 182, 27);
+}
